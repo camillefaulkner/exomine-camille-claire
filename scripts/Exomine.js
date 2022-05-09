@@ -52,6 +52,12 @@ export const Exomine = () => {
                 <div class="center"><button class="orderButton" id="orderButton">Purchase Mineral</button></div>
                 </section>
                 </article>
+                <footer class="footer">
+                <p>©️ Camille</p>
+                <a href="https://github.com/camillefaulkner/exomine-camille-claire" target="_blank"><img class="github" src="images/githublogo.svg"></a>
+                <p> and Claire </p>
+                <a href="https://github.com/crmo2444/exomine-camille-claire" target="_blank"><img class="github" src="images/githublogo.svg"></a>
+                </footer>
                 `
     return html
 }
