@@ -23,14 +23,14 @@ Add these minerals to your cart, purchase them, and watch your inventory magical
 git clone git@github.com:camillefaulkner/exomine-camille-claire.git
 ```
 
-1. Navigate to the project directory:
+2. Navigate to the project directory:
 ```sh
 cd ~/workspace/exomine-camille-claire
 ```
 
-1. Run the `serve` command to start the web server.
+3. Run the `serve` command to start the web server.
 
-1. Open the URL provided by `serve` in your browser.
+4. Open the URL provided by `serve` in your browser.
 
 
 ## Who Maintains And Contributes To This Project
