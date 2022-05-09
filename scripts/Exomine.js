@@ -36,7 +36,7 @@ export const Exomine = () => {
             </section>
     
             <article class="sidebyside">
-            <article class="showfacility"> 
+                <article class="showfacility"> 
                 <section class="mining">
                     ${miningHTML()}
                 </section>
@@ -62,7 +62,7 @@ export const Exomine = () => {
                     <p> and Claire Morgan-Sanders</p>
                     <a href="https://github.com/crmo2444/exomine-camille-claire" target="_blank"><img class="github" src="images/githublogo.svg"></a>
                     </div>
-                    </footer>
+                </footer>
                 `
     return html
 }
