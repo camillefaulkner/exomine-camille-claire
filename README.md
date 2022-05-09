@@ -18,8 +18,8 @@ Resources are a hot commodity, only 1 ton of any type of mineral can be purchase
 Add these minerals to your cart, purchase them, and watch your inventory magically update!
 
 ## How To Clone Our Project
-1. Open your terminal, type in the following, and press Enter:
-git clone 
+1. Open your terminal, cd to your workspace, type in the following, and press Enter:
+git clone git@github.com:camillefaulkner/exomine-camille-claire.git
 
 1. Navigate to the project directory:
 cd ~/workspace/exomine-camille-claire
