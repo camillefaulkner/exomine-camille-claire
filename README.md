@@ -25,7 +25,7 @@ git clone git@github.com:camillefaulkner/exomine-camille-claire.git
 
 2. Navigate to the project directory:
 ```sh
-cd ~/exomine-camille-claire
+cd exomine-camille-claire
 ```
 
 3. Run the `serve` command to start the web server.
