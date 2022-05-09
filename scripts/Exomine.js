@@ -53,11 +53,16 @@ export const Exomine = () => {
                 </section>
                 </article>
                 <footer class="footer">
-                <p>©️ Camille</p>
-                <a href="https://github.com/camillefaulkner/exomine-camille-claire" target="_blank"><img class="github" src="images/githublogo.svg"></a>
-                <p> and Claire </p>
-                <a href="https://github.com/crmo2444/exomine-camille-claire" target="_blank"><img class="github" src="images/githublogo.svg"></a>
-                </footer>
+                    <div class="firstline">
+                    <p>Click the Octocat to Learn More!</p>
+                    </div>
+                    <div class="secondline">
+                    <p>©️ Camille Faulkner</p><br>
+                    <a href="https://github.com/camillefaulkner/exomine-camille-claire" target="_blank"><img class="github" src="images/githublogo.svg"></a>
+                    <p> and Claire </p>
+                    <a href="https://github.com/crmo2444/exomine-camille-claire" target="_blank"><img class="github" src="images/githublogo.svg"></a>
+                    </div>
+                    </footer>
                 `
     return html
 }

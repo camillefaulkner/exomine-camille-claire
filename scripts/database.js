@@ -134,8 +134,9 @@ export const purchaseFeature = () => {
         })
         foundMineral.quantity = newMineralColony.quantity
     })
-
     spaceCart("")
+    state.chosenMinerals.clear()
+    state.chosenFacilities.clear()
 }
 
 
