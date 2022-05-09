@@ -19,14 +19,18 @@ Add these minerals to your cart, purchase them, and watch your inventory magical
 
 ## How To Clone Our Project
 1. Open your terminal, cd to your workspace, type in the following, and press Enter:
+```sh
 git clone git@github.com:camillefaulkner/exomine-camille-claire.git
+```
 
 1. Navigate to the project directory:
+```sh
 cd ~/workspace/exomine-camille-claire
+```
 
-1. Run the serve command to start the web server.
+1. Run the `serve` command to start the web server.
 
-1. Open the URL provided by serve in your browser.
+1. Open the URL provided by `serve` in your browser.
 
 
 ## Who Maintains And Contributes To This Project
