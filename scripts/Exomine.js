@@ -59,7 +59,7 @@ export const Exomine = () => {
                     <div class="secondline">
                     <p>©️ Camille Faulkner</p><br>
                     <a href="https://github.com/camillefaulkner/exomine-camille-claire" target="_blank"><img class="github" src="images/githublogo.svg"></a>
-                    <p> and Claire </p>
+                    <p> and Claire Morgan-Sanders</p>
                     <a href="https://github.com/crmo2444/exomine-camille-claire" target="_blank"><img class="github" src="images/githublogo.svg"></a>
                     </div>
                     </footer>
